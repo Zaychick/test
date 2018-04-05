@@ -10,6 +10,6 @@ let open      = document.getElementById('open-btn'),
 		btn 			= document.getElementsByTagName('button'),	
 		choose		= document.querySelector('.choose-item'),
 		time		  = document.querySelector('.time-value'),
-		budg		  = document.querySelector('.count-budget-value');
-		empItem   =document.querySelectorAll('.hire-employers-item')
+		budg		  = document.querySelector('.count-budget-value'),
+		empItem   =document.querySelectorAll('.hire-employers-item');
 console.log(item); 
